@@ -1,0 +1,2 @@
+Insert into Cliente (Codigo,Nome,Telefone)
+values (1,"Lorem ipsum","(88) 999 9999")
